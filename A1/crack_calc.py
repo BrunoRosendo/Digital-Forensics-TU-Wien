@@ -1,6 +1,9 @@
-PASSWORD_LENGTH = int(input("Enter the length of the password:"))
-CHAR_OPTIONS = int(input("Enter the number of possible characters:"))
-GUESSES_PER_SECOND = int(input("Enter the number of guesses per second:"))
+print("Let's see how secure your password is!")
+print()
+
+PASSWORD_LENGTH = int(input("Enter the length of the password: "))
+CHAR_OPTIONS = int(input("Enter the number of possible characters: "))
+GUESSES_PER_SECOND = int(input("Enter the number of guesses per second: "))
 
 combinations = CHAR_OPTIONS**PASSWORD_LENGTH
 total_seconds = combinations / GUESSES_PER_SECOND
