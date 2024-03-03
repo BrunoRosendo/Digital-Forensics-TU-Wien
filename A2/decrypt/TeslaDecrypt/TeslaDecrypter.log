@@ -1,0 +1,57 @@
+Talos TeslaCrypt Decryptor 1.0
+Execution time: 28/11/2023 - 13:14
+13:14:25 - SearchForTeslaCryptProcess - No active TeslaCrypt process found on this system!
+Talos TeslaCrypt Decryptor 1.0
+Execution time: 28/11/2023 - 13:15
+13:15:16 - SearchForTeslaCryptProcess - No active TeslaCrypt process found on this system!
+Talos TeslaCrypt Decryptor 1.0
+Execution time: 28/11/2023 - 13:16
+13:16:39 - SearchForTeslaCryptProcess - No active TeslaCrypt process found on this system!
+Talos TeslaCrypt Decryptor 1.0
+Execution time: 28/11/2023 - 13:18
+13:18:34 - SearchForTeslaCryptProcess - No active TeslaCrypt process found on this system!
+13:18:53 - DecryptTeslaFile - Successfully calculated and imported AES key for file "C:\Users\user\Desktop\feup\5_Ano\1Semestre\DigitalForensics\2ndAssessment\TeslaDecrypt\decrypt\81997-passwords.docx.mp3": A15CBEEE5DEB704A33BBC3149D4BBF4E0A719E12DD792795A54C208B21F6AD7C
+13:18:53 - DecryptTeslaFile - A backup of the original encrypted file was stored in "C:\Users\user\Desktop\feup\5_Ano\1Semestre\DigitalForensics\2ndAssessment\TeslaDecrypt\decrypt\81997-passwords.docx.mp3".
+13:18:53 - DecryptTeslaFile - Successfully decrypted file "C:\Users\user\Desktop\feup\5_Ano\1Semestre\DigitalForensics\2ndAssessment\TeslaDecrypt\decrypt\81997-passwords.docx_decrypted.mp3".
+13:19:00 - Execution Ended!
+
+
+Talos TeslaCrypt Decryptor 1.0
+Execution time: 28/11/2023 - 13:20
+13:20:17 - SearchForTeslaCryptProcess - No active TeslaCrypt process found on this system!
+13:20:26 - DecryptTeslaFile - Successfully calculated and imported AES key for file "C:\Users\user\Desktop\feup\5_Ano\1Semestre\DigitalForensics\2ndAssessment\TeslaDecrypt\TeslaDecrypt\81997-passwords.docx.mp3": A15CBEEE5DEB704A33BBC3149D4BBF4E0A719E12DD792795A54C208B21F6AD7C
+13:20:26 - DecryptTeslaFile - Encrypted file ("C:\Users\user\Desktop\feup\5_Ano\1Semestre\DigitalForensics\2ndAssessment\TeslaDecrypt\TeslaDecrypt\81997-passwords.docx.mp3") deleted.
+13:20:26 - DecryptTeslaFile - Successfully decrypted file "C:\Users\user\Desktop\feup\5_Ano\1Semestre\DigitalForensics\2ndAssessment\TeslaDecrypt\TeslaDecrypt\81997-passwords.docx_decrypted.mp3".
+13:20:28 - Execution Ended!
+
+
+Talos TeslaCrypt Decryptor 1.0
+Execution time: 28/11/2023 - 13:21
+13:21:17 - SearchForTeslaCryptProcess - No active TeslaCrypt process found on this system!
+13:21:25 - DecryptDirectory - Processing directory "C:\Users\user\Desktop\feup\5_Ano\1Semestre\DigitalForensics\2ndAssessment\TeslaDecrypt\decrypt" (Recursive: True, Strip file extensions: True)...
+13:21:25 - DecryptTeslaFile - Successfully calculated and imported AES key for file "C:\Users\user\Desktop\feup\5_Ano\1Semestre\DigitalForensics\2ndAssessment\TeslaDecrypt\decrypt\25992-contactdata.csv.mp3": A15CBEEE5DEB704A33BBC3149D4BBF4E0A719E12DD792795A54C208B21F6AD7C
+13:21:25 - DecryptTeslaFile - Encrypted file ("C:\Users\user\Desktop\feup\5_Ano\1Semestre\DigitalForensics\2ndAssessment\TeslaDecrypt\decrypt\25992-contactdata.csv.mp3") deleted.
+13:21:25 - DecryptTeslaFile - Successfully decrypted file "C:\Users\user\Desktop\feup\5_Ano\1Semestre\DigitalForensics\2ndAssessment\TeslaDecrypt\decrypt\25992-contactdata.csv".
+13:21:25 - DecryptTeslaFile - Encrypted file ("C:\Users\user\Desktop\feup\5_Ano\1Semestre\DigitalForensics\2ndAssessment\TeslaDecrypt\decrypt\81988-Leonard_Nimoy_William_Shatner_Star_Trek_1968.JPG.mp3") deleted.
+13:21:25 - DecryptTeslaFile - Successfully decrypted file "C:\Users\user\Desktop\feup\5_Ano\1Semestre\DigitalForensics\2ndAssessment\TeslaDecrypt\decrypt\81988-Leonard_Nimoy_William_Shatner_Star_Trek_1968.JPG".
+13:21:25 - DecryptTeslaFile - Encrypted file ("C:\Users\user\Desktop\feup\5_Ano\1Semestre\DigitalForensics\2ndAssessment\TeslaDecrypt\decrypt\81991-monster_concept_art_vii_by_d_faultx.jpg.mp3") deleted.
+13:21:25 - DecryptTeslaFile - Successfully decrypted file "C:\Users\user\Desktop\feup\5_Ano\1Semestre\DigitalForensics\2ndAssessment\TeslaDecrypt\decrypt\81991-monster_concept_art_vii_by_d_faultx.jpg".
+13:21:25 - DecryptTeslaFile - Encrypted file ("C:\Users\user\Desktop\feup\5_Ano\1Semestre\DigitalForensics\2ndAssessment\TeslaDecrypt\decrypt\81994-myrating.csv.mp3") deleted.
+13:21:25 - DecryptTeslaFile - Successfully decrypted file "C:\Users\user\Desktop\feup\5_Ano\1Semestre\DigitalForensics\2ndAssessment\TeslaDecrypt\decrypt\81994-myrating.csv".
+13:21:25 - DecryptTeslaFile - Encrypted file ("C:\Users\user\Desktop\feup\5_Ano\1Semestre\DigitalForensics\2ndAssessment\TeslaDecrypt\decrypt\81997-passwords.docx.mp3") deleted.
+13:21:25 - DecryptTeslaFile - Successfully decrypted file "C:\Users\user\Desktop\feup\5_Ano\1Semestre\DigitalForensics\2ndAssessment\TeslaDecrypt\decrypt\81997-passwords.docx".
+13:21:25 - DecryptTeslaFile - Encrypted file ("C:\Users\user\Desktop\feup\5_Ano\1Semestre\DigitalForensics\2ndAssessment\TeslaDecrypt\decrypt\82000-unityassetstoreguide.pdf.mp3") deleted.
+13:21:25 - DecryptTeslaFile - Successfully decrypted file "C:\Users\user\Desktop\feup\5_Ano\1Semestre\DigitalForensics\2ndAssessment\TeslaDecrypt\decrypt\82000-unityassetstoreguide.pdf".
+13:21:26 - DecryptTeslaFile - Encrypted file ("C:\Users\user\Desktop\feup\5_Ano\1Semestre\DigitalForensics\2ndAssessment\TeslaDecrypt\decrypt\82036-IMG_20160823_130922.jpg.mp3") deleted.
+13:21:26 - DecryptTeslaFile - Successfully decrypted file "C:\Users\user\Desktop\feup\5_Ano\1Semestre\DigitalForensics\2ndAssessment\TeslaDecrypt\decrypt\82036-IMG_20160823_130922.jpg".
+13:21:26 - DecryptTeslaFile - Encrypted file ("C:\Users\user\Desktop\feup\5_Ano\1Semestre\DigitalForensics\2ndAssessment\TeslaDecrypt\decrypt\82097-Fallen_Champions_concept_art_3.jpg.mp3") deleted.
+13:21:26 - DecryptTeslaFile - Successfully decrypted file "C:\Users\user\Desktop\feup\5_Ano\1Semestre\DigitalForensics\2ndAssessment\TeslaDecrypt\decrypt\82097-Fallen_Champions_concept_art_3.jpg".
+13:21:26 - DecryptTeslaFile - Encrypted file ("C:\Users\user\Desktop\feup\5_Ano\1Semestre\DigitalForensics\2ndAssessment\TeslaDecrypt\decrypt\82100-Fungus-Documentation.pdf.mp3") deleted.
+13:21:26 - DecryptTeslaFile - Successfully decrypted file "C:\Users\user\Desktop\feup\5_Ano\1Semestre\DigitalForensics\2ndAssessment\TeslaDecrypt\decrypt\82100-Fungus-Documentation.pdf".
+13:21:26 - DecryptTeslaFile - Encrypted file ("C:\Users\user\Desktop\feup\5_Ano\1Semestre\DigitalForensics\2ndAssessment\TeslaDecrypt\decrypt\82870-companydata.csv.mp3") deleted.
+13:21:26 - DecryptTeslaFile - Successfully decrypted file "C:\Users\user\Desktop\feup\5_Ano\1Semestre\DigitalForensics\2ndAssessment\TeslaDecrypt\decrypt\82870-companydata.csv".
+13:21:26 - DecryptTeslaFile - Encrypted file ("C:\Users\user\Desktop\feup\5_Ano\1Semestre\DigitalForensics\2ndAssessment\TeslaDecrypt\decrypt\82873-Computing_short19.pdf.mp3") deleted.
+13:21:26 - DecryptTeslaFile - Successfully decrypted file "C:\Users\user\Desktop\feup\5_Ano\1Semestre\DigitalForensics\2ndAssessment\TeslaDecrypt\decrypt\82873-Computing_short19.pdf".
+13:21:32 - Execution Ended!
+
+

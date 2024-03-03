@@ -1,0 +1,99 @@
+1    Which of these attributes are mandatory for all MFT entries?
+        DATA
+        STANDARD INFORMATION X
+        FILENAME X
+        ..
+2    Which job is a good prequisite to easily become a forensics expert?
+        Dentist
+        System administrator X
+        Teachers
+        Network engineer X
+3    What statements are true about UserAssist?
+        Stores each program execution date
+        Stores the last program execution date X
+        Stores the number of program executions X
+        Is saved in the registry X
+4    What sizes are currently used in the NTFS file system?
+        4096 bytes sector size (used to be 512 bytes) and 4096 bytes cluster size X
+        4096 bytes sector size and 4096 bytes cluster size (used to be 512 bytes)
+        512 bytes sector size and 512 bytes cluster size
+        512 bytes sector size and 4096 bytes cluster size
+5    What does the principle of overlap mean? (nao demos)
+        must be paid first by the client
+        the client can also transfer the paid money to the loser of a process
+6    What statements are correct concerning forensics in companies?
+        There is it a fixed process everyone has to follow
+        Guides by NIST have to be applied 1:1
+        Guides by NIST can be applied mixed X
+        Guides have to be adjusted to fit the company X
+7    What is the advantage of looking into data of previous incidents?
+        Data can be restored like in a backup 1:1
+        Previous incident data can help and recure work enormously when analyzing the current incident X
+8    What statements are true concerning the expert report and findings?
+        The finding presents all relevant facts from which the later conclusions are drawn X
+        The findings are the basis for the report in the strict sense. All conclusions and statements that are in it must be founded on facts documented in the findings
+9    What statements are true concerning evidence NONE
+        A judge has to acknowledge all evidences
+        Evicence consisting of reports by laypersons has to be acknowledged
+        Evicence consisting of reports has to be acknowledged
+10   What are the disadvantages of using DMA?
+        DMA changes the RAM state
+        One has to carry a DMA tool with him X
+        DMA depends on the OS
+        DMA influences paging
+11  What are the advantages of using DMA?
+        see previous question, all answers were just the same or inverted...
+12  What about documentation?
+        is the most important thing X
+        is a hard thing that is easy to be done wrong X
+        saves a forensics guy from being accused to have manipulated the data
+13  Software vs hardware RAM aquisition?
+        Software is cheaper X
+        Software is OS-independent
+14  What statements are true concerning Vtypes in Volatility?
+        Maps C types to Python
+        Supports as many data types as C provides X
+        Are used to model a specific OS/hardware architecture X
+        Is needed to execute the main Python script (vol.py)
+15  You see a locked PC that has no port to use DMA (Firewire, etc.). What do you do?
+        Use a cold boot attack X
+        Turn the PC off and analyze the HDD in the lab
+        Use FTK3
+        Use Volatility
+16  Which cryptographical functions are used to achieve integrity?
+        AES with ECB
+        AES with CBC X
+        Cryptographical hash functions X
+        Fuzzy hashing
+17  Which techniques did Max Butler (from the book Kingpin) in the example use? He...
+        Hacked into WiFis
+        did stack based buffer overflows
+        captured RAM X
+        used Tor for hacking
+18  Concerning HDD analysis, which statements are true?
+        Using hardware write blockers is mandatory X
+        Using hardware write blockers is optional
+        Using software write blockers is sufficient
+        There exists a hardware write blocker which can handle RAID X
+19  Which of those file attributes exist?
+        Modified X
+        Updated X
+        Created X
+        Moved
+20  When a file is deleted on hard disk, what does change?
+        The file is overwritten multiple times
+        The MFT entry is marked as deleted X
+        The bitmap of the corresponding sectors is set to 1
+        The bitmap of the corresponding sectors is set to 0
+21  Which of these points are inadmissible in an expert report?
+        Offering legal teachings X
+        Uncheckable claims X
+22  Which statements are true about aquisition?
+        Acquisition is not repeatable X
+        May provoke paging X
+        Is invasive (RAM regions get overwritten) X
+
+23  Which commands do you use to analyse processes, when doing an forensic analysis?
+        psscan X
+        pstree X
+        pslist X
